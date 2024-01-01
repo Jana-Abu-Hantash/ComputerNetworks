@@ -32,3 +32,4 @@ This project involves designing and implementing a network for a company with on
 ## Conclusion
 Our network design prioritizes security, efficiency, and ease of management while providing a scalable solution for the company's communication needs across its various departments and locations.
 
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
